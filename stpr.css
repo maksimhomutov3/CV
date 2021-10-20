@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+body {
+    background: url(fon.png);
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+}
+
+.one {
+    background-color:cornsilk;
+    max-width: 750px;
+    margin: auto;
+    border: radius 20%;
+    
+}
+
+.about {
+    background-color:	#ffbebe;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.photo {
+    margin: auto;
+    width: 180x;
+    height: 200px;
+    border-radius: 50%;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    
+}
+h1 {
+    color:#191970;
+    padding: 5px;
+    text-align: center;
+    padding-bottom: 0px;
+   
+}
+
+.header{
+    color: cornflowerblue;
+    padding: 0%;
+    text-align: center;
+}
+
+
+.social {
+    background-color:#ffccb8;
+    margin-top: 30px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.skilss {
+    padding-left: 15px;
+}
+
+.skilss li{
+    padding-bottom: 10px;
+}
